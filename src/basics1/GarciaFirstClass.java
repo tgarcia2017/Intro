@@ -6,4 +6,4 @@ public class GarciaFirstClass {
 		// TODO Auto-generated method stub
         System.out.println("Learning  Java Software 2017");
 	}
-	
+}	
