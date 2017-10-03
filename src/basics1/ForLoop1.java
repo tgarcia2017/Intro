@@ -20,33 +20,31 @@ public class ForLoop1 {
 			if (g == 3 || g == 4 || g == 5) {
 				continue;
 			}
-			System.out.println(g);}
-			
-		}S
-		
-	    public static void  breakLoops(String [] studentnames) {
+			System.out.println(g);
+		}
+
+	}
+
+	public static void  breakLoops(String [] studentnames) {
 	     
 	
-		String[] listOfNames = { "tracy", "doe", "bob", "joe", "sam" };
+		String[] listOfNames = {"tracy", "doe", "bob", "joe", "sam"};
 
-		for(String name:listOfName){
+		for (String name:studentnames){
 		
 			if(name.equals ("joe")) {
 			break;
 		}
-		System.out.println(name);
+		System.out.println(name);}
 	   }
-	
-	static void stopPrintingWhenYouFindJoe(listOfNames);}
 
+	static void stopPrintingWhenYouFindJoe() {
+	} 
 
-	}
+	{
+ 
 }
-
-
-
-
-
+}
 
 
 

@@ -3,7 +3,7 @@ package basics1;
 public class CheckMarks {
 
 	public static void main(String[] args) {
-		gradeStudent(73);
+		gradeStudent(48);
 	}
 
 	// TODO Auto-generated method stub
@@ -31,5 +31,6 @@ public class CheckMarks {
 			System.out.println("Grade B");
 
 		}
+		else System.out.println("Fail");
 	}
 }
