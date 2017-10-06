@@ -1,7 +1,5 @@
 package basics1;
 
-import java.util.Scanner;
-
 public class StringUpperCase {
 
 	public static void main(String[] args) {
@@ -13,8 +11,6 @@ public class StringUpperCase {
 		String name2 = "Tracy";
 
 		System.out.println(name2.toLowerCase());
-
-		String input = new Scanner(System.in).nextLine();
 
 		System.out.println("tracy" + name1.toUpperCase());
 
